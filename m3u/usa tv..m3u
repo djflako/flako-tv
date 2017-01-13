@@ -1,6 +1,17 @@
 
 
 #EXTM3U
+
+#EXTINF: 0,TELEMUNDO 52 PACIFICO
+http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3u8
+#EXTINF: 0,UNIVISION PACIFICO 720p
+http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
+
+
+
+
+
+
 #EXTINF:0,NBC
 http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/1.mpegts
 #EXTINF:0,A&E
