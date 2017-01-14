@@ -8,7 +8,7 @@ http://iphone-streaming.ustream.tv/uhls/22662024/streams/live/iphone/playlist.m3
 http://iphone-streaming.ustream.tv/uhls/22460196/streams/live/iphone/playlist.m3u8
 
 #EXTINF:0,USA: TVO KIDS
-http://live.softiptv.com:9900/live/525/525/17369.ts
+http://live.softiptv.com:9900/live/525/525/17369.m3u8?
 #EXTINF:0,USA: TMN ACTION
 http://live.softiptv.com:9900/live/525/525/17370.ts
 #EXTINF:0,USA: OMNI TORONTO
