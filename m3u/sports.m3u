@@ -5,7 +5,7 @@
 http://premium.exabytetv.info/HLSST/258/258-DIDVX-1011000110010010100110110100000-ExabyteTV.m3u8
 
 
-#EXTINF:-1" group-title="UK",EUROSPORT 1 SD
+#EXTINF:-1" group-title="sports",EUROSPORT 1 SD
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:0, PAC12 HD WASH
 http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
